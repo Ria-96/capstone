@@ -1,11 +1,6 @@
-h1{
-    font-family: Arial, Helvetica, sans-serif;
-    color: blueviolet;
-}
 body{ 
-    background-color: darkslategray;
+    background-color: coral;
 }
-p{
-    color: darkblue;
-    
+p{ 
+    text-align: center;
 }
