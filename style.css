@@ -16,3 +16,9 @@ h1{
 li, p {
     color: rgb(123, 102, 255);
 }
+img {
+     border-radius: 2em 0;
+}
+h2 {
+    color: darkslateblue;
+}
